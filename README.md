@@ -13,10 +13,6 @@ This project analyzes player behavior and In-App Purchase (IAP) performance in a
 - Which markets combine high player scale with high ARPU?
 - How can these insights be translated into actionable monetization opportunities?
 
-The ultimate goal is to move from:
-
-**Data → Insight → Monetization Opportunity → Experiment Hypothesis**
-
 ---
 
 # 🎯 Business Objective
