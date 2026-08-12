@@ -76,22 +76,18 @@ The dataset contains **2888 mobile game users** with player-level behavioral, de
 ![Dashboard 1](gaming.png)
 
 **Key Insights**
-1. Revenue is highly concentrated among Whale players
-- Whale players represent a small share of the user base but contribute approximately 59% of total IAP revenue, indicating a highly concentrated monetization structure.
-- Business implication: Revenue stability is highly dependent on high-value players.
+Key Insights
+- Revenue Concentration: Whales represent a small share of users but contribute ~59% of IAP revenue.
+- Engagement vs. Value: High engagement does not necessarily translate into high IAP value.
+- First Purchase: Day 15–30 accounts for the largest share of first purchases, with player value varying across windows.
+- Device × Genre: Player value differs substantially across platform and game genre combinations.
+- Market Opportunity: Countries show different levels of user scale and ARPU, revealing distinct monetization opportunities.
 
-2. Engagement alone does not explain player value
-- The Engagement vs. IAP analysis shows substantial variation in IAP value across players with similar engagement levels. Highly engaged players can still generate relatively low IAP.
-- Business implication: Increasing engagement alone may not be sufficient to improve monetization; player intent, offers, progression and segmentation should be investigated.
+---
+# 🚀 Actionable Recommendations
 
-3. First-purchase timing shows different player-value patterns
-- Players making their first purchase across different time windows exhibit different ARPU and median IAP levels, while Day 15–30 accounts for the largest share of first purchases.
-- Business implication: The first-purchase journey is a potential monetization optimization area that should be investigated further.
-
-4. Player value varies by Device × Game Genre
-- IAP value differs substantially across Device × Game Genre combinations, suggesting that monetization performance is not uniform across platforms and genres.
-- Business implication: IAP offers, pricing and acquisition strategies may benefit from platform- and genre-specific optimization.
-
-5. Markets differ in scale and player value
-- Countries show different combinations of user scale and ARPU, creating distinct scale markets, high-value niche markets and monetization opportunity markets.
-- Business implication: Market-level monetization and acquisition strategies should be evaluated using both player value and market scale.
+- Protect high-value revenue: Prioritize Whale retention and value expansion through personalized offers, premium content and high-value player monitoring.
+- Monetize high-engagement, low-value players: Identify highly engaged players with low IAP value and test starter packs, bundles and personalized offers.
+- Optimize the first-purchase journey: Investigate player progression, offer exposure and purchase behavior around Day 8–14 and Day 15–30, then validate optimization opportunities through A/B testing.
+- Personalize monetization by Device × Genre: Use Device × Genre performance to test differentiated IAP offers, bundles and pricing strategies rather than applying a one-size-fits-all approach.
+- Validate high-value markets before scaling UA: Prioritize high-ARPU markets for deeper analysis of LTV, retention, CPI and ROAS before increasing acquisition investment.
