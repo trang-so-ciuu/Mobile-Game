@@ -69,7 +69,7 @@ The dataset contains **2888 mobile game users** with player-level behavioral, de
 ---
 
 # 📈 Dashboard Architecture & Key Visuals
-![Dashboard 1](gaming.png)
+![Dashboard 1](mobile_game.png)
 
 
 **Key Insights**
