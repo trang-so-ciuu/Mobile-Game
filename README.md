@@ -71,8 +71,8 @@ The dataset contains **2888 mobile game users** with player-level behavioral, de
 # 📈 Dashboard Architecture & Key Visuals
 ![Dashboard 1](gaming.png)
 
+
 **Key Insights**
-Key Insights
 - Revenue Concentration: Whales represent a small share of users but contribute ~59% of IAP revenue.
 - Engagement vs. Value: High engagement does not necessarily translate into high IAP value.
 - First Purchase: Day 15–30 accounts for the largest share of first purchases, with player value varying across windows.
