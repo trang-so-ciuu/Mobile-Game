@@ -82,8 +82,8 @@ Key Insights
 ---
 # 🚀 Actionable Recommendations
 
-- Protect high-value revenue: Prioritize Whale retention and value expansion through personalized offers, premium content and high-value player monitoring.
-- Monetize high-engagement, low-value players: Identify highly engaged players with low IAP value and test starter packs, bundles and personalized offers.
-- Optimize the first-purchase journey: Investigate player progression, offer exposure and purchase behavior around Day 8–14 and Day 15–30, then validate optimization opportunities through A/B testing.
-- Personalize monetization by Device × Genre: Use Device × Genre performance to test differentiated IAP offers, bundles and pricing strategies rather than applying a one-size-fits-all approach.
-- Validate high-value markets before scaling UA: Prioritize high-ARPU markets for deeper analysis of LTV, retention, CPI and ROAS before increasing acquisition investment.
+- **Protect high-value revenue**: Prioritize Whale retention and value expansion through personalized offers, premium content and high-value player monitoring.
+- **Monetize high-engagement, low-value players**: Identify highly engaged players with low IAP value and test starter packs, bundles and personalized offers.
+- **Optimize the first-purchase journey**: Investigate player progression, offer exposure and purchase behavior around Day 8–14 and Day 15–30, then validate optimization opportunities through A/B testing.
+- **Personalize monetization by Device × Genre**: Use Device × Genre performance to test differentiated IAP offers, bundles and pricing strategies rather than applying a one-size-fits-all approach.
+- **Validate high-value markets before scaling UA**: Prioritize high-ARPU markets for deeper analysis of LTV, retention, CPI and ROAS before increasing acquisition investment.
